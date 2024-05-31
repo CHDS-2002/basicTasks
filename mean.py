@@ -68,5 +68,9 @@ mean = statistics.mean(numbers)
 print('5-й способ:')
 print('Среднее: ', mean, '.\n', sep='')
 
-os.system('PAUSE')  # Останавливаем работу программы
-os.system('CLS')  # Очищаем экран консоли
+try:
+    os.system('PAUSE')  # Останавливаем работу программы
+    os.system('CLS')  # Очищаем экран консоли
+except:
+    os.system('CLS')  # Очищаем экран консоли
+

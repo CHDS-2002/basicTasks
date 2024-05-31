@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1523335-8b36-4ee2-930d-e2dc9452b442" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/solutionTasks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/complexFormule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mean.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleLines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sums&amp;differences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wordLength.py" afterDir="false" />
+    <list default="true" id="e1523335-8b36-4ee2-930d-e2dc9452b442" name="Changes" comment="Commit0&#10;&#10;These is solutions of Tasks&#10;&#10;Five python files:&#10;1) wordLength.py;&#10;2) sums&amp;differences.py;&#10;3) mean.py;&#10;4) simpleLines.py;&#10;5) complexFormule.py;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/complexFormule.py" beforeDir="false" afterPath="$PROJECT_DIR$/complexFormule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mean.py" beforeDir="false" afterPath="$PROJECT_DIR$/mean.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleLines.py" beforeDir="false" afterPath="$PROJECT_DIR$/simpleLines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sums&amp;differences.py" beforeDir="false" afterPath="$PROJECT_DIR$/sums&amp;differences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordLength.py" beforeDir="false" afterPath="$PROJECT_DIR$/wordLength.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +87,19 @@
       <option name="presentableId" value="Default" />
       <updated>1717099879090</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit0&#10;&#10;These is solutions of Tasks&#10;&#10;Five python files:&#10;1) wordLength.py;&#10;2) sums&amp;differences.py;&#10;3) mean.py;&#10;4) simpleLines.py;&#10;5) complexFormule.py;">
+      <option name="closed" value="true" />
+      <created>1717139075558</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717139075558</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit0&#10;&#10;These is solutions of Tasks&#10;&#10;Five python files:&#10;1) wordLength.py;&#10;2) sums&amp;differences.py;&#10;3) mean.py;&#10;4) simpleLines.py;&#10;5) complexFormule.py;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit0&#10;&#10;These is solutions of Tasks&#10;&#10;Five python files:&#10;1) wordLength.py;&#10;2) sums&amp;differences.py;&#10;3) mean.py;&#10;4) simpleLines.py;&#10;5) complexFormule.py;" />
   </component>
 </project>

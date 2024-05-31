@@ -31,5 +31,9 @@ print('2-й способ:')
 print("Строка:")
 print(first_string, ', ', second_string, '\n', sep='')
 
-os.system('PAUSE')  # Останавливаем работу программы
-os.system('CLS')  # Очищаем экран консоли
+try:
+    os.system('PAUSE')  # Останавливаем работу программы
+    os.system('CLS')  # Очищаем экран консоли
+except:
+    os.system('CLS')  # Очищаем экран консоли
+

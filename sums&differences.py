@@ -46,5 +46,9 @@ diff = abs(diff)
 print('3-й способ:')
 print('Разность: ', diff, '.\n', sep='')
 
-os.system('PAUSE')  # Останавливаем работу программы
-os.system('CLS')  # Очищаем экран консоли
+try:
+    os.system('PAUSE')  # Останавливаем работу программы
+    os.system('CLS')  # Очищаем экран консоли
+except:
+    os.system('CLS')  # Очищаем экран консоли
+

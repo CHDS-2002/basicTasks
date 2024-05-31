@@ -48,5 +48,9 @@ length_a = len(a)
 print('3-й способ:')
 print('Длина строки: ', length_a, '.\n', sep='')
 
-os.system('PAUSE')  # Останавливаем работу программы
-os.system('CLS')  # Очищаем экран консоли
+try:
+    os.system('PAUSE')  # Останавливаем работу программы
+    os.system('CLS')  # Очищаем экран консоли
+except:
+    os.system('CLS')  # Очищаем экран консоли
+

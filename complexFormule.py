@@ -80,5 +80,6 @@ print('\nРезультат: ', number, '.\n', sep='')
 
 try:
     os.system('PAUSE')  # Останавливаем работу программы
-finally:
+    os.system('CLS')  # Очищаем экран консоли
+except:
     os.system('CLS')  # Очищаем экран консоли
